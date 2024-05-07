@@ -4,7 +4,7 @@ This is a simple website showcasing expanding cards using CSS animations.
 
 ## Demo
 
-You can view a live demo of the website [here](https://example.com).
+You can view a live demo of the website [here]( https://yogesh9389.github.io/expanding_Cards/).
 
 ## Features
 
